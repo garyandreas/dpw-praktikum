@@ -1,4 +1,10 @@
+# DESKRIPSI PRAKTIKUM
+Desain dan Pemrograman Web
+
 # LINK UNDANGAN
+
+https://www.canva.com/id_id/contoh/EAGQn_IXteY-undangan-pernikahan-minimalis-coklat/
+
 ## Halaman Depan
 a. Judul Undangan
 b. Tanggal Pernikahan
